@@ -1,0 +1,651 @@
+Age,Gender,Region,Income,Previous_Purchases,Website_Visits_Monthly,Time_Spent_Minutes,Product_Category_Viewed,Has_Promo_Code,Subscribed
+56.0,Male,West,83340.0,11,57,64.57,Books,False,Yes
+69.0,Male,Central,31432.0,14,60,21.14,Books,True,Yes
+46.0,Female,North,57865.0,8,54,,Sports,True,No
+32.0,Female,North,38976.0,7,70,76.35,Home Goods,False,No
+60.0,Male,East,44688.0,10,57,,Electronics,False,Yes
+25.0,Female,Central,56803.0,15,10,24.54,Sports,False,No
+38.0,Female,South,68368.0,3,40,27.42,Electronics,True,No
+56.0,Male,West,74350.0,0,7,107.4,Books,True,Yes
+36.0,Female,South,26945.0,6,38,91.25,Sports,False,Yes
+40.0,Other,Central,,1,85,109.45,Sports,True,No
+28.0,Other,North,71892.0,4,61,92.25,Clothing,False,Yes
+28.0,Male,North,24720.0,6,84,73.67,Books,True,No
+41.0,Female,Central,54715.0,3,3,80.23,Books,False,No
+53.0,Female,North,49968.0,4,51,,Sports,False,Yes
+57.0,Female,North,56218.0,0,86,71.56,Books,True,Yes
+41.0,Other,North,38415.0,0,47,77.73,Sports,False,No
+20.0,Female,West,28465.0,14,68,22.99,Clothing,True,No
+39.0,Female,West,21303.0,19,92,59.5,Sports,False,No
+19.0,Female,East,64645.0,18,76,87.39,Books,False,No
+41.0,Female,South,66560.0,9,38,36.16,Books,False,Yes
+61.0,Male,Central,54540.0,17,36,28.26,Sports,False,No
+47.0,Male,Central,41987.0,2,41,41.09,Sports,False,No
+,Male,Central,25654.0,10,69,32.77,Sports,True,No
+19.0,Female,East,58450.0,14,13,29.71,Home Goods,True,Yes
+38.0,Male,West,33488.0,10,87,53.86,Books,False,Yes
+50.0,Female,East,39330.0,16,58,109.4,Books,False,No
+29.0,Male,Central,41201.0,16,50,63.31,Home Goods,False,No
+39.0,Female,South,47036.0,5,30,26.61,Sports,False,Yes
+61.0,Female,North,38614.0,4,62,13.85,Clothing,False,Yes
+42.0,Female,West,50501.0,7,25,85.06,Sports,False,No
+66.0,Male,West,40672.0,1,27,49.02,Sports,False,No
+,Female,East,60520.0,15,51,,Home Goods,False,Yes
+59.0,Female,West,65465.0,19,78,80.84,Books,False,Yes
+45.0,Male,Central,51628.0,11,57,96.57,Sports,True,Yes
+33.0,Female,Central,56939.0,5,47,36.27,Books,True,No
+32.0,Female,East,81767.0,0,39,84.62,Electronics,True,No
+64.0,Male,Central,32410.0,3,16,35.37,Books,True,No
+68.0,Female,South,31497.0,16,22,112.99,Clothing,False,No
+61.0,Male,East,60424.0,12,85,78.18,Clothing,False,Yes
+69.0,Male,South,79198.0,17,54,42.32,Sports,False,No
+20.0,Male,North,46092.0,4,21,35.99,Books,False,No
+54.0,Male,South,75902.0,2,72,26.96,Sports,False,Yes
+68.0,Male,North,51446.0,10,16,84.88,Home Goods,True,Yes
+24.0,Female,North,39786.0,12,59,30.15,Clothing,True,No
+38.0,Female,South,35139.0,3,31,73.46,Sports,True,No
+26.0,Female,East,59441.0,13,42,35.43,Home Goods,False,Yes
+56.0,Female,Central,36275.0,10,74,81.13,Sports,True,No
+35.0,Female,Central,51219.0,9,32,98.72,Books,True,No
+21.0,Female,North,73751.0,18,59,94.47,Books,False,Yes
+,Male,North,45398.0,17,34,,Books,False,Yes
+31.0,Male,East,69710.0,5,9,,Books,True,Yes
+67.0,Male,West,31781.0,14,81,15.16,Electronics,False,No
+26.0,Male,South,41991.0,9,11,85.38,Home Goods,False,Yes
+43.0,Female,North,28892.0,4,96,47.36,Home Goods,False,Yes
+19.0,Male,Central,51094.0,4,10,54.72,Books,False,No
+37.0,Female,East,61701.0,9,86,8.58,Electronics,True,No
+45.0,Other,South,51127.0,4,17,34.85,Books,True,Yes
+64.0,Female,East,68405.0,2,68,8.87,Electronics,False,No
+24.0,Male,South,38762.0,5,48,106.11,Books,False,No
+,Male,South,53380.0,3,52,,Clothing,False,No
+25.0,Female,North,42087.0,17,25,,Clothing,False,No
+64.0,Female,East,55425.0,8,21,9.48,Sports,False,Yes
+52.0,Male,East,57556.0,16,65,81.69,Books,False,No
+31.0,Female,Central,58735.0,12,63,42.15,Home Goods,False,No
+34.0,Male,Central,33941.0,14,89,108.26,Sports,False,No
+53.0,Male,North,36653.0,19,51,107.13,Clothing,True,No
+67.0,Male,North,39435.0,16,36,42.41,Books,False,No
+57.0,Male,West,46416.0,12,81,108.61,Sports,True,Yes
+21.0,Other,Central,51307.0,15,88,119.56,Books,True,No
+19.0,Female,South,60621.0,3,66,99.92,Clothing,False,No
+23.0,Male,East,37278.0,4,15,102.16,Sports,True,No
+59.0,Female,North,25984.0,4,96,33.64,Clothing,True,Yes
+21.0,Female,East,82336.0,8,39,71.32,Electronics,True,No
+46.0,Female,East,33028.0,16,70,12.73,Clothing,False,No
+35.0,Male,West,62544.0,12,1,15.92,Books,False,Yes
+43.0,Male,Central,50469.0,1,23,119.87,Home Goods,False,No
+61.0,Male,North,53769.0,12,39,,Clothing,True,No
+51.0,Male,East,49976.0,18,57,91.04,Home Goods,False,No
+27.0,Male,North,44227.0,2,81,97.77,Electronics,False,No
+53.0,Female,South,56959.0,9,34,103.67,Sports,False,No
+31.0,Male,West,,1,41,119.73,Sports,False,Yes
+48.0,Male,South,67494.0,12,93,32.77,Home Goods,True,No
+65.0,Male,North,58526.0,18,73,9.64,Sports,False,No
+32.0,Male,North,58993.0,16,13,52.29,Clothing,False,No
+25.0,Male,Central,42393.0,13,70,19.96,Home Goods,False,No
+31.0,Male,East,46454.0,11,6,7.58,Books,False,No
+40.0,Male,East,32181.0,11,84,46.45,Clothing,False,Yes
+57.0,Male,South,44704.0,10,52,95.13,Clothing,False,No
+38.0,Male,West,34451.0,6,3,70.11,Clothing,False,Yes
+33.0,Female,East,69696.0,3,81,40.97,Books,False,Yes
+62.0,Male,Central,50758.0,18,63,80.25,Electronics,False,Yes
+35.0,Male,South,52557.0,0,49,31.68,Sports,True,No
+64.0,Male,South,46622.0,2,76,6.65,Home Goods,False,Yes
+41.0,Female,Central,52963.0,12,47,,Electronics,False,Yes
+43.0,Male,West,86973.0,14,55,76.73,Home Goods,False,Yes
+42.0,Female,Central,45497.0,1,64,92.66,Sports,True,Yes
+62.0,Female,West,40243.0,10,65,9.48,Books,False,No
+58.0,Male,Central,57945.0,3,81,101.27,Clothing,False,No
+46.0,Female,Central,12114.0,18,67,76.25,Clothing,False,Yes
+32.0,Female,North,50959.0,16,90,69.79,Books,False,No
+62.0,Male,South,44424.0,2,15,76.83,Electronics,False,No
+18.0,Male,Central,35115.0,17,32,104.41,Electronics,True,No
+42.0,Female,Central,57616.0,7,96,72.5,Home Goods,False,Yes
+24.0,Female,East,50809.0,18,68,71.81,Books,True,No
+26.0,Other,South,22963.0,4,18,118.93,Electronics,True,Yes
+41.0,Male,East,40302.0,6,83,92.02,Books,False,Yes
+18.0,Female,South,10000.0,7,43,55.86,Sports,False,Yes
+61.0,Male,East,54399.0,4,35,86.35,Clothing,False,No
+25.0,Female,Central,54249.0,16,78,49.76,Clothing,False,Yes
+41.0,Female,Central,38100.0,4,58,,Clothing,False,Yes
+28.0,Male,North,58101.0,3,33,73.64,Books,False,Yes
+68.0,Male,East,30762.0,18,14,111.74,Books,True,No
+34.0,Male,West,35502.0,1,34,111.85,Home Goods,False,No
+25.0,Male,North,56257.0,10,61,44.32,Clothing,False,Yes
+52.0,Male,East,39669.0,12,4,65.68,Home Goods,False,No
+52.0,Female,East,49060.0,14,88,29.34,Clothing,True,No
+50.0,Female,North,41545.0,11,59,119.5,Home Goods,False,No
+22.0,Female,Central,43836.0,10,29,117.83,Home Goods,True,Yes
+59.0,Female,East,,6,83,79.69,Sports,True,No
+56.0,Female,Central,39398.0,4,6,97.51,Home Goods,False,Yes
+,Female,North,54536.0,16,97,87.24,Books,False,No
+45.0,Female,Central,40581.0,19,49,73.21,Home Goods,False,Yes
+24.0,Male,South,50235.0,8,40,11.14,Clothing,False,Yes
+26.0,Male,West,39069.0,13,83,57.3,Home Goods,False,Yes
+25.0,Male,East,26985.0,11,65,82.6,Electronics,False,No
+29.0,Male,West,63686.0,5,69,82.92,Clothing,False,Yes
+51.0,Male,Central,57492.0,16,27,47.91,Electronics,True,No
+50.0,Male,East,84330.0,18,80,113.29,Clothing,False,Yes
+65.0,Female,Central,34340.0,18,6,24.25,Books,False,No
+40.0,Female,South,46865.0,15,13,62.54,Books,False,No
+,Male,North,48072.0,11,64,84.45,Books,False,No
+54.0,Male,East,64840.0,11,62,85.17,Electronics,False,No
+52.0,Male,South,42393.0,19,99,79.59,Sports,False,No
+61.0,Female,South,32434.0,5,19,36.66,Clothing,False,Yes
+57.0,Male,East,68117.0,3,76,22.96,Books,True,No
+39.0,Female,Central,45250.0,5,80,78.13,Clothing,False,Yes
+44.0,Male,South,63179.0,10,43,73.92,Electronics,False,No
+52.0,Female,West,61432.0,0,74,25.63,Sports,False,No
+18.0,Other,South,49551.0,14,89,86.09,Electronics,True,Yes
+52.0,Male,Central,47385.0,10,20,57.34,Clothing,False,Yes
+54.0,Female,Central,44126.0,18,95,81.79,Sports,False,No
+,Female,West,49772.0,17,68,101.3,Sports,False,No
+31.0,Female,South,62946.0,16,44,24.52,Electronics,False,No
+20.0,Male,Central,38053.0,18,23,7.2,Books,False,No
+18.0,Female,East,,13,2,94.6,Clothing,False,No
+22.0,Female,North,33220.0,17,22,75.12,Home Goods,False,No
+43.0,Female,North,35088.0,18,57,85.46,Home Goods,False,Yes
+31.0,Female,North,49535.0,14,72,101.39,Electronics,True,Yes
+56.0,Female,South,20597.0,14,7,97.32,Clothing,False,No
+44.0,Other,West,80908.0,3,78,115.51,Clothing,False,No
+26.0,Female,Central,32104.0,6,56,66.63,Electronics,False,No
+32.0,Female,East,49398.0,12,67,61.18,Clothing,True,No
+32.0,Female,East,67523.0,2,16,51.22,Books,False,Yes
+43.0,Male,South,37056.0,15,83,22.67,Electronics,True,No
+59.0,Female,North,15459.0,8,51,70.85,Books,True,Yes
+30.0,Female,South,43325.0,7,82,36.86,Clothing,False,Yes
+68.0,Male,West,36877.0,19,80,110.95,Electronics,False,No
+49.0,Female,West,15854.0,12,72,72.07,Clothing,False,Yes
+56.0,Male,Central,54273.0,16,97,73.18,Electronics,False,No
+66.0,Female,Central,53106.0,16,12,45.82,Clothing,True,No
+69.0,Female,West,67134.0,16,53,10.98,Books,False,No
+49.0,Female,West,33187.0,0,75,8.65,Books,False,Yes
+21.0,Male,West,26012.0,7,5,53.68,Clothing,True,Yes
+47.0,Female,South,43899.0,18,27,14.73,Electronics,False,Yes
+54.0,Female,West,48674.0,5,12,74.79,Home Goods,False,No
+40.0,Male,East,63820.0,2,17,106.31,Books,False,No
+56.0,Male,North,71158.0,4,6,106.54,Books,False,No
+62.0,Female,West,,12,97,,Home Goods,False,Yes
+32.0,Male,North,54148.0,14,5,29.29,Clothing,False,No
+60.0,Male,South,61992.0,13,57,104.24,Electronics,False,Yes
+46.0,Female,North,40392.0,15,28,106.9,Clothing,True,Yes
+53.0,Male,South,52525.0,17,78,27.62,Sports,False,No
+30.0,Female,East,32130.0,10,69,89.8,Books,False,No
+49.0,Male,South,50940.0,2,59,37.95,Sports,False,Yes
+24.0,Female,South,51329.0,9,33,97.3,Books,False,Yes
+68.0,Male,Central,75831.0,9,62,119.68,Books,False,No
+39.0,Female,West,46565.0,15,50,8.45,Sports,False,Yes
+45.0,Male,West,51350.0,11,19,108.2,Sports,True,Yes
+19.0,Female,East,53554.0,1,86,76.6,Clothing,False,No
+59.0,Male,East,43177.0,8,69,116.94,Sports,False,No
+62.0,Female,West,37962.0,2,66,58.48,Clothing,True,No
+23.0,Female,Central,69482.0,14,94,102.45,Clothing,False,No
+45.0,Other,West,35286.0,2,47,12.18,Clothing,False,No
+45.0,Female,Central,30081.0,18,39,43.56,Books,False,Yes
+61.0,Male,East,60203.0,17,68,12.71,Books,True,No
+61.0,Female,North,67367.0,7,33,117.16,Sports,True,No
+37.0,Male,East,43228.0,16,13,98.95,Books,False,Yes
+47.0,Male,East,43459.0,7,84,103.04,Sports,True,No
+28.0,Male,South,,6,54,112.87,Books,False,Yes
+45.0,Female,South,39382.0,6,7,14.79,Electronics,False,Yes
+42.0,Female,South,38274.0,2,79,49.34,Electronics,True,Yes
+56.0,Male,South,63193.0,0,87,13.17,Sports,True,No
+50.0,Female,Central,59106.0,3,14,,Books,False,No
+18.0,Male,West,,4,87,31.38,Books,False,No
+44.0,Male,North,,0,19,58.95,Clothing,False,No
+69.0,Male,East,42463.0,14,54,35.88,Home Goods,False,Yes
+30.0,Male,Central,54217.0,4,93,16.61,Sports,False,Yes
+58.0,Female,North,36115.0,12,20,24.26,Home Goods,False,Yes
+20.0,Female,Central,59625.0,7,29,21.94,Home Goods,False,Yes
+56.0,Female,Central,68369.0,7,24,116.9,Sports,False,Yes
+23.0,Male,East,41249.0,4,82,92.32,Books,False,No
+25.0,Male,West,50578.0,8,63,116.29,Sports,False,No
+44.0,Male,South,71834.0,0,74,55.57,Home Goods,True,No
+26.0,Female,West,76989.0,3,57,37.01,Books,False,Yes
+54.0,Male,East,61187.0,2,8,96.8,Electronics,True,No
+50.0,Female,East,58901.0,1,90,42.52,Sports,True,Yes
+68.0,Other,East,37193.0,7,62,,Sports,False,Yes
+,Female,North,55388.0,8,29,31.74,Books,False,No
+61.0,Female,West,58352.0,1,74,19.91,Electronics,False,No
+41.0,Male,West,46844.0,13,17,34.49,Electronics,False,Yes
+32.0,Female,Central,41078.0,13,66,45.86,Books,False,No
+49.0,Female,Central,30780.0,3,6,82.51,Clothing,True,Yes
+49.0,Female,Central,23934.0,5,58,12.19,Sports,False,No
+41.0,Male,East,20781.0,10,69,29.21,Sports,False,No
+58.0,Male,West,58691.0,2,28,98.04,Home Goods,False,No
+69.0,Male,East,52215.0,7,62,,Books,False,Yes
+66.0,Female,North,42742.0,2,41,44.4,Home Goods,True,Yes
+,Female,Central,45028.0,13,69,104.44,Home Goods,False,No
+69.0,Female,East,53157.0,12,82,22.82,Electronics,False,No
+29.0,Male,East,47531.0,12,90,14.51,Sports,False,Yes
+56.0,Female,North,29891.0,1,84,60.72,Home Goods,False,No
+,Male,South,63695.0,12,41,39.78,Electronics,False,No
+20.0,Male,West,54561.0,18,49,69.79,Books,False,No
+66.0,Male,South,53988.0,5,91,97.44,Home Goods,False,No
+,Female,Central,62563.0,15,49,20.77,Sports,False,No
+66.0,Male,East,37795.0,1,76,71.78,Home Goods,True,No
+34.0,Female,North,68205.0,7,71,63.13,Books,True,No
+66.0,Female,North,47899.0,16,3,,Home Goods,False,Yes
+19.0,Male,West,63328.0,1,10,76.76,Sports,True,Yes
+19.0,Female,South,61016.0,9,98,36.47,Electronics,True,Yes
+45.0,Male,West,34417.0,15,89,61.1,Sports,False,No
+40.0,Male,East,57543.0,5,35,14.46,Electronics,False,Yes
+54.0,Male,West,54894.0,1,80,57.85,Clothing,False,No
+49.0,Male,North,50454.0,1,2,40.24,Sports,True,Yes
+50.0,Female,North,48584.0,12,24,99.57,Sports,True,Yes
+18.0,Male,Central,48711.0,14,74,11.55,Books,True,No
+36.0,Female,Central,62190.0,1,38,53.14,Home Goods,False,Yes
+19.0,Female,East,58668.0,6,22,57.72,Electronics,False,Yes
+61.0,Female,South,,2,26,88.38,Electronics,False,Yes
+43.0,Female,West,27620.0,7,43,71.04,Books,True,No
+49.0,Female,East,57416.0,13,55,,Books,False,No
+23.0,Male,Central,60854.0,6,39,94.36,Home Goods,False,No
+49.0,Male,West,84506.0,6,91,104.15,Home Goods,False,No
+21.0,Female,Central,66131.0,0,29,41.1,Sports,False,No
+28.0,Female,West,21512.0,16,20,66.87,Clothing,False,Yes
+34.0,Male,South,51176.0,8,91,101.61,Home Goods,True,Yes
+55.0,Female,East,77170.0,12,41,118.79,Books,True,No
+41.0,Male,West,59353.0,18,54,107.29,Home Goods,False,Yes
+22.0,Female,North,54929.0,18,20,47.72,Electronics,True,Yes
+69.0,Male,North,,16,19,27.44,Clothing,True,No
+51.0,Male,West,40664.0,9,84,61.28,Sports,True,No
+23.0,Male,West,57171.0,9,99,90.29,Electronics,True,Yes
+,Female,West,46242.0,3,66,61.65,Electronics,False,Yes
+28.0,Female,North,49705.0,7,30,60.57,Clothing,False,No
+65.0,Male,North,62426.0,19,53,101.4,Sports,False,No
+33.0,Female,West,36099.0,19,34,46.56,Books,False,No
+50.0,Male,Central,69319.0,17,22,103.88,Sports,False,No
+26.0,Female,Central,43657.0,13,67,51.78,Home Goods,False,No
+23.0,Male,South,53909.0,17,6,42.75,Electronics,False,No
+33.0,Male,East,28992.0,13,79,57.21,Home Goods,False,No
+46.0,Female,Central,60797.0,19,27,92.68,Books,True,Yes
+20.0,Other,North,71697.0,14,10,19.49,Home Goods,False,No
+37.0,Female,Central,42280.0,3,73,27.59,Sports,False,Yes
+53.0,Female,South,33346.0,12,97,114.42,Home Goods,False,Yes
+36.0,Female,South,,7,96,25.18,Books,False,No
+43.0,Male,East,71822.0,17,48,70.29,Books,False,No
+20.0,Other,Central,28252.0,11,70,71.62,Books,False,No
+36.0,Female,North,33405.0,13,59,61.31,Sports,True,Yes
+37.0,Female,North,43187.0,1,59,79.15,Books,False,No
+49.0,Female,West,37694.0,17,2,31.43,Electronics,False,No
+24.0,Female,North,37742.0,1,29,68.56,Books,False,No
+69.0,Female,East,18588.0,10,68,47.8,Home Goods,True,Yes
+58.0,Male,East,58835.0,8,65,81.09,Home Goods,False,Yes
+50.0,Female,North,55080.0,11,83,21.24,Home Goods,False,No
+57.0,Male,North,24517.0,16,26,70.65,Sports,True,Yes
+56.0,Other,West,71857.0,14,89,26.31,Home Goods,False,No
+35.0,Female,North,75216.0,16,10,37.04,Sports,True,No
+57.0,Male,West,38736.0,17,53,30.15,Sports,False,Yes
+18.0,Female,West,67498.0,5,79,26.03,Books,False,Yes
+28.0,Female,North,41405.0,16,59,99.96,Electronics,False,Yes
+45.0,Female,South,52716.0,17,22,37.86,Books,True,No
+42.0,Female,South,37463.0,7,51,111.62,Books,False,Yes
+67.0,Male,West,83213.0,8,48,116.54,Sports,True,No
+40.0,Female,North,45559.0,5,21,70.69,Sports,True,No
+48.0,Female,South,51896.0,4,22,21.45,Home Goods,True,No
+47.0,Male,North,39680.0,11,98,48.07,Home Goods,True,Yes
+59.0,Female,North,77919.0,10,30,96.74,Books,False,Yes
+52.0,Male,North,78299.0,0,25,47.25,Clothing,True,No
+24.0,Male,Central,74463.0,10,28,15.01,Clothing,False,No
+33.0,Female,North,64346.0,18,65,69.03,Home Goods,False,No
+43.0,Female,Central,40628.0,8,45,102.19,Clothing,False,Yes
+65.0,Male,West,62417.0,1,68,96.53,Home Goods,False,Yes
+69.0,Female,South,49894.0,11,7,25.14,Sports,False,No
+66.0,Male,South,69686.0,3,49,82.37,Books,False,Yes
+,Male,South,66738.0,3,9,30.36,Electronics,True,No
+18.0,Male,South,40261.0,17,36,30.09,Books,False,No
+65.0,Male,South,64217.0,14,83,105.52,Home Goods,True,Yes
+29.0,Male,South,60230.0,18,1,33.71,Home Goods,True,No
+22.0,Female,South,10000.0,12,10,35.27,Books,True,No
+54.0,Female,West,62014.0,18,36,5.08,Home Goods,False,Yes
+49.0,Male,North,43523.0,16,73,105.13,Clothing,True,No
+26.0,Female,East,36709.0,5,46,96.15,Clothing,False,Yes
+58.0,Female,Central,37351.0,15,32,77.14,Home Goods,True,Yes
+52.0,Male,East,47971.0,11,32,91.28,Home Goods,False,Yes
+36.0,Female,East,57200.0,18,6,22.49,Clothing,True,No
+65.0,Other,North,29518.0,4,48,57.71,Home Goods,True,No
+33.0,Male,North,52847.0,16,38,45.39,Home Goods,False,No
+20.0,Male,North,58651.0,0,17,15.78,Books,True,Yes
+37.0,Female,South,77927.0,9,74,60.91,Electronics,False,No
+41.0,Female,West,33849.0,14,27,110.89,Clothing,False,Yes
+50.0,Male,South,44755.0,10,54,9.61,Books,True,No
+41.0,Female,West,53924.0,12,50,38.52,Electronics,False,No
+69.0,Female,West,67211.0,4,35,28.87,Home Goods,True,Yes
+28.0,Female,East,45436.0,0,85,32.39,Home Goods,False,Yes
+66.0,Female,East,67979.0,11,25,109.47,Books,True,No
+25.0,Female,West,20939.0,10,28,58.83,Home Goods,False,Yes
+53.0,Male,West,,16,15,58.62,Sports,True,No
+55.0,Male,South,55229.0,3,4,92.47,Books,False,Yes
+57.0,Female,South,28837.0,14,93,22.77,Electronics,False,Yes
+37.0,Female,East,32382.0,8,73,61.04,Books,False,No
+52.0,Male,North,42083.0,19,27,54.45,Clothing,False,No
+65.0,Female,West,61571.0,18,26,73.64,Books,False,No
+42.0,Female,South,21560.0,18,19,119.95,Home Goods,False,Yes
+52.0,Male,East,52554.0,11,92,93.49,Home Goods,True,Yes
+42.0,Female,South,65494.0,4,17,50.75,Sports,True,Yes
+46.0,Female,West,47075.0,9,43,100.17,Sports,True,No
+35.0,Female,West,44467.0,16,41,,Sports,False,No
+63.0,Female,Central,56026.0,4,42,8.5,Electronics,False,No
+35.0,Male,North,47118.0,15,50,28.51,Sports,False,No
+19.0,Female,Central,70857.0,6,84,44.15,Electronics,True,Yes
+,Male,East,33328.0,8,40,63.72,Sports,False,No
+33.0,Male,South,49225.0,2,39,75.74,Electronics,True,No
+58.0,Female,East,53085.0,14,23,109.72,Books,False,No
+53.0,Male,West,44323.0,15,96,63.63,Books,False,Yes
+50.0,Male,Central,10000.0,17,52,62.65,Home Goods,False,Yes
+21.0,Female,Central,47586.0,13,47,10.78,Electronics,False,No
+50.0,Male,Central,63502.0,2,63,9.01,Clothing,False,Yes
+31.0,Male,East,61671.0,11,97,68.38,Home Goods,True,Yes
+38.0,Female,West,55321.0,8,69,55.39,Books,False,Yes
+65.0,Female,South,33532.0,6,43,101.51,Electronics,True,No
+37.0,Male,South,55929.0,8,48,23.48,Sports,False,Yes
+25.0,Female,East,41398.0,12,34,7.87,Clothing,False,Yes
+24.0,Female,Central,55302.0,17,40,56.64,Books,True,Yes
+20.0,Female,North,51822.0,4,75,32.31,Home Goods,True,No
+34.0,Female,East,35354.0,12,61,10.71,Electronics,False,No
+50.0,Other,East,36613.0,3,50,88.33,Clothing,False,No
+65.0,Female,West,55325.0,1,67,17.83,Electronics,False,No
+29.0,Female,South,46683.0,15,62,74.96,Sports,True,No
+68.0,Female,East,37395.0,8,58,37.32,Home Goods,True,Yes
+39.0,Male,East,36157.0,8,33,24.95,Electronics,False,Yes
+39.0,Male,Central,45442.0,5,75,48.67,Books,False,Yes
+63.0,Female,Central,73521.0,10,16,97.17,Home Goods,True,Yes
+47.0,Female,North,42108.0,0,82,50.09,Books,False,Yes
+55.0,Female,West,49789.0,3,94,91.34,Electronics,True,No
+55.0,Male,North,51524.0,12,48,19.43,Home Goods,False,No
+62.0,Female,Central,33034.0,12,10,93.87,Books,False,No
+68.0,Male,South,23557.0,12,82,32.25,Sports,False,No
+25.0,Male,Central,34600.0,1,38,82.9,Sports,False,Yes
+44.0,Female,West,53706.0,8,19,70.06,Electronics,False,Yes
+44.0,Female,Central,51309.0,7,36,111.85,Home Goods,True,No
+51.0,Female,West,60536.0,6,59,,Clothing,True,No
+38.0,Female,West,51451.0,3,63,12.61,Home Goods,False,Yes
+47.0,Male,West,48356.0,17,77,7.2,Sports,False,No
+50.0,Female,West,,2,46,100.09,Books,False,No
+45.0,Male,West,63269.0,5,3,65.34,Clothing,False,No
+64.0,Female,South,,11,74,94.15,Electronics,False,No
+50.0,Female,North,,11,65,31.96,Clothing,True,Yes
+22.0,Female,East,58505.0,7,91,44.68,Electronics,False,Yes
+65.0,Female,North,30002.0,0,8,8.46,Clothing,False,No
+36.0,Female,West,86221.0,3,51,115.57,Electronics,False,Yes
+21.0,Female,South,51199.0,10,81,81.8,Electronics,False,No
+52.0,Male,Central,55218.0,2,73,112.32,Clothing,True,No
+66.0,Male,South,37873.0,12,6,35.53,Clothing,False,Yes
+34.0,Male,West,45271.0,16,89,75.32,Electronics,False,No
+61.0,Male,South,43598.0,9,39,83.03,Sports,False,No
+45.0,Female,South,41872.0,11,60,,Clothing,True,Yes
+47.0,Female,West,59494.0,14,28,102.53,Home Goods,True,No
+46.0,Male,South,43256.0,9,97,113.92,Books,True,No
+63.0,Male,East,65262.0,13,54,106.76,Electronics,True,No
+23.0,Male,East,89947.0,12,37,89.99,Electronics,False,Yes
+52.0,Female,South,45566.0,4,9,36.91,Books,False,No
+58.0,Female,Central,52284.0,5,82,37.39,Sports,False,No
+54.0,Male,West,55692.0,1,56,115.79,Books,False,Yes
+41.0,Female,East,77172.0,16,59,6.18,Clothing,False,Yes
+46.0,Female,Central,48760.0,3,85,87.35,Books,True,No
+66.0,Male,South,37564.0,13,2,86.22,Electronics,False,Yes
+63.0,Female,Central,31004.0,9,61,76.61,Books,False,No
+48.0,Female,North,49130.0,2,58,118.86,Home Goods,True,No
+52.0,Male,East,43274.0,2,60,40.87,Clothing,True,No
+50.0,Male,South,80150.0,14,40,44.1,Books,False,Yes
+69.0,Male,West,76547.0,5,36,14.08,Electronics,False,No
+38.0,Male,South,34484.0,16,37,55.92,Clothing,False,Yes
+49.0,Female,West,39338.0,11,79,35.02,Electronics,True,No
+40.0,Female,South,51106.0,19,92,44.49,Sports,False,No
+50.0,Male,Central,,10,18,100.98,Home Goods,False,No
+20.0,Male,Central,50855.0,3,98,112.58,Sports,True,No
+35.0,Male,Central,40291.0,5,63,26.36,Home Goods,False,No
+42.0,Male,North,49116.0,0,22,47.84,Books,True,Yes
+59.0,Female,West,40572.0,19,11,111.79,Clothing,False,No
+48.0,Male,Central,59037.0,15,58,12.11,Books,True,No
+20.0,Male,North,39364.0,14,57,,Home Goods,True,Yes
+57.0,Male,West,42343.0,16,77,23.72,Home Goods,True,Yes
+63.0,Female,South,67429.0,7,4,73.45,Home Goods,True,No
+41.0,Male,North,38474.0,11,86,22.3,Electronics,False,Yes
+67.0,Female,East,28308.0,9,7,116.33,Clothing,True,No
+49.0,Male,North,51424.0,14,61,56.37,Books,False,No
+64.0,Female,North,44592.0,8,54,62.67,Books,True,Yes
+39.0,Female,West,57671.0,1,88,33.37,Sports,False,No
+40.0,Male,South,54762.0,4,68,59.16,Home Goods,False,Yes
+19.0,Male,East,,5,92,81.12,Home Goods,True,No
+44.0,Female,Central,49084.0,6,79,91.39,Home Goods,False,No
+59.0,Female,Central,38962.0,0,1,91.69,Books,True,No
+19.0,Male,North,51250.0,6,55,71.46,Sports,False,No
+43.0,Female,West,63219.0,19,3,109.0,Electronics,False,No
+34.0,Female,West,35398.0,11,78,99.0,Clothing,False,No
+57.0,Female,Central,49919.0,15,38,92.06,Electronics,False,Yes
+50.0,Male,East,65575.0,15,1,11.39,Books,False,Yes
+26.0,Female,South,57581.0,10,38,5.79,Home Goods,True,No
+60.0,Male,East,69642.0,3,85,29.43,Clothing,True,No
+65.0,Female,South,41477.0,12,29,81.31,Books,False,No
+56.0,Male,Central,22538.0,6,5,52.29,Books,False,No
+46.0,Male,South,53009.0,3,74,51.28,Books,False,Yes
+59.0,Male,West,55438.0,14,92,106.73,Clothing,False,No
+43.0,Female,North,70526.0,18,21,107.99,Clothing,False,No
+52.0,Male,North,67822.0,8,71,109.56,Sports,False,Yes
+67.0,Male,Central,58051.0,10,67,41.1,Sports,False,Yes
+42.0,Male,West,61480.0,7,47,84.47,Electronics,False,No
+41.0,Female,East,47122.0,0,84,36.24,Clothing,False,Yes
+30.0,Other,West,31713.0,7,83,26.92,Clothing,True,Yes
+24.0,Male,North,,12,35,26.23,Clothing,True,Yes
+53.0,Female,North,64738.0,3,68,44.34,Sports,False,No
+,Female,West,59845.0,7,69,54.45,Books,True,No
+37.0,Female,West,62507.0,2,1,100.56,Home Goods,False,No
+18.0,Male,North,43583.0,8,68,18.79,Sports,False,No
+25.0,Male,East,46016.0,1,12,89.52,Clothing,False,Yes
+63.0,Male,Central,57251.0,1,60,,Sports,False,No
+33.0,Male,Central,41802.0,12,27,38.11,Electronics,False,Yes
+31.0,Male,West,42264.0,14,56,61.67,Clothing,False,Yes
+29.0,Female,Central,54469.0,11,23,39.49,Electronics,False,No
+68.0,Male,North,61413.0,3,25,73.55,Clothing,False,No
+40.0,Male,North,47007.0,7,21,54.89,Sports,False,Yes
+32.0,Female,West,32552.0,8,61,23.91,Books,False,Yes
+,Male,West,38962.0,4,63,18.41,Home Goods,False,No
+51.0,Female,West,53055.0,19,52,67.87,Electronics,False,Yes
+19.0,Female,East,52872.0,17,88,,Sports,False,Yes
+49.0,Male,Central,,10,25,44.56,Books,False,Yes
+40.0,Female,West,57819.0,14,55,,Sports,False,Yes
+39.0,Female,South,50087.0,8,46,80.75,Electronics,False,No
+68.0,Female,South,53975.0,16,32,112.13,Home Goods,False,Yes
+42.0,Female,North,49324.0,11,55,99.41,Sports,False,Yes
+39.0,Female,Central,67231.0,6,96,70.16,Clothing,False,No
+39.0,Female,West,71485.0,9,5,80.56,Books,False,No
+66.0,Male,South,32164.0,9,36,108.31,Sports,False,Yes
+69.0,Male,Central,46171.0,12,49,50.94,Books,False,Yes
+,Male,North,50490.0,18,58,42.58,Clothing,False,Yes
+23.0,Female,East,45996.0,10,39,6.24,Home Goods,True,No
+32.0,Male,Central,76893.0,12,80,100.05,Home Goods,False,No
+60.0,Female,Central,53359.0,7,97,97.11,Clothing,False,No
+54.0,Female,East,37919.0,7,85,17.01,Books,False,No
+50.0,Female,Central,58946.0,3,61,71.34,Sports,False,No
+25.0,Other,North,54064.0,14,9,58.36,Clothing,False,No
+61.0,Female,North,54562.0,10,6,18.65,Electronics,False,No
+61.0,Female,East,77118.0,10,35,117.77,Books,True,Yes
+22.0,Male,West,55261.0,0,39,29.69,Home Goods,False,No
+56.0,Female,South,45445.0,16,22,12.73,Clothing,False,Yes
+21.0,Male,West,20670.0,14,41,73.41,Home Goods,True,Yes
+23.0,Male,Central,47519.0,19,5,89.97,Books,True,No
+62.0,Female,South,69589.0,5,42,8.73,Home Goods,False,Yes
+49.0,Female,East,48632.0,14,87,80.75,Clothing,False,No
+69.0,Male,East,16399.0,8,81,66.21,Books,True,No
+,Female,South,42524.0,13,76,16.88,Electronics,False,No
+64.0,Female,North,64890.0,17,87,24.84,Clothing,False,No
+52.0,Female,South,58187.0,16,80,70.32,Sports,False,Yes
+57.0,Female,Central,37401.0,17,67,39.08,Clothing,False,No
+69.0,Female,North,41520.0,4,30,112.91,Books,False,No
+33.0,Other,East,43839.0,19,57,99.16,Clothing,False,No
+30.0,Female,South,40059.0,19,86,118.11,Electronics,False,No
+67.0,Female,West,19554.0,8,73,34.86,Electronics,False,Yes
+59.0,Other,West,61453.0,10,29,116.52,Sports,True,No
+47.0,Female,Central,68855.0,0,37,54.59,Home Goods,False,Yes
+36.0,Male,West,,17,87,44.96,Books,True,No
+34.0,Male,South,68657.0,5,13,10.79,Books,True,Yes
+36.0,Male,South,48454.0,1,32,11.07,Home Goods,True,No
+,Male,West,68376.0,14,46,84.58,Electronics,True,Yes
+43.0,Female,South,50569.0,13,23,57.66,Electronics,False,Yes
+54.0,Female,Central,52033.0,4,45,31.05,Clothing,True,No
+43.0,Female,North,55586.0,5,17,75.61,Sports,False,No
+40.0,Male,Central,38149.0,5,85,34.08,Sports,False,No
+26.0,Female,Central,67920.0,17,66,71.43,Sports,False,No
+,Female,South,33179.0,13,6,46.31,Clothing,True,No
+,Female,North,,9,18,99.71,Sports,False,No
+18.0,Female,South,57863.0,13,94,99.38,Home Goods,False,Yes
+64.0,Female,East,42362.0,12,22,59.9,Clothing,False,No
+51.0,Male,South,61662.0,2,33,45.34,Home Goods,False,Yes
+49.0,Female,South,70637.0,5,30,46.69,Clothing,False,No
+65.0,Male,South,65188.0,7,81,97.66,Sports,False,No
+42.0,Male,North,20958.0,11,32,42.74,Home Goods,False,No
+57.0,Female,South,51887.0,12,42,29.04,Home Goods,False,No
+62.0,Male,North,65430.0,10,78,14.74,Home Goods,True,No
+18.0,Female,West,30248.0,11,10,58.67,Clothing,False,No
+33.0,Male,East,60854.0,0,36,60.45,Books,True,Yes
+56.0,Female,North,60011.0,16,34,101.7,Sports,False,No
+22.0,Male,West,31818.0,15,73,30.44,Home Goods,False,Yes
+39.0,Other,North,62513.0,10,28,48.81,Books,False,No
+46.0,Female,North,54090.0,12,11,97.97,Sports,False,Yes
+20.0,Male,East,59755.0,17,78,99.72,Sports,False,Yes
+29.0,Female,Central,35505.0,10,39,49.23,Home Goods,False,Yes
+43.0,Other,Central,52252.0,11,47,57.8,Home Goods,False,No
+33.0,Male,North,24426.0,5,19,39.88,Clothing,False,No
+68.0,Male,South,15845.0,8,15,112.24,Books,True,Yes
+54.0,Female,West,52112.0,15,28,18.64,Books,False,No
+39.0,Female,South,66508.0,3,24,112.38,Home Goods,False,Yes
+46.0,Female,South,53794.0,2,72,83.64,Sports,True,No
+31.0,Female,North,49048.0,15,9,66.13,Home Goods,False,No
+45.0,Male,North,47186.0,11,47,8.76,Sports,True,No
+,Male,North,35861.0,10,33,59.69,Sports,False,No
+64.0,Female,North,46672.0,4,62,51.89,Home Goods,False,Yes
+66.0,Male,Central,56325.0,17,97,23.54,Electronics,False,No
+47.0,Male,North,43471.0,18,19,80.49,Books,True,No
+63.0,Female,Central,,5,67,116.68,Sports,True,No
+69.0,Female,Central,52939.0,17,74,69.65,Sports,True,No
+22.0,Female,North,54754.0,5,40,87.2,Electronics,False,Yes
+29.0,Female,East,63329.0,3,47,12.87,Clothing,False,No
+33.0,Female,West,42098.0,11,65,53.03,Electronics,False,No
+43.0,Female,South,59890.0,18,29,18.38,Electronics,False,Yes
+43.0,Female,Central,44202.0,1,50,,Sports,False,Yes
+65.0,Male,West,55092.0,16,98,112.93,Books,False,Yes
+38.0,Male,East,40313.0,10,13,81.1,Electronics,False,No
+56.0,Female,South,36339.0,10,1,,Clothing,False,No
+53.0,Female,South,51377.0,15,34,45.79,Home Goods,False,Yes
+50.0,Male,Central,,1,93,68.33,Electronics,True,Yes
+47.0,Male,North,,1,48,51.37,Electronics,True,No
+54.0,Male,East,,7,77,100.87,Clothing,False,No
+40.0,Male,Central,61688.0,12,48,98.69,Books,True,Yes
+27.0,Female,East,65751.0,9,49,75.36,Electronics,False,Yes
+,Male,North,37040.0,7,64,47.95,Electronics,False,No
+53.0,Female,North,56424.0,3,61,34.36,Books,False,Yes
+51.0,Female,Central,63487.0,14,29,17.18,Clothing,False,Yes
+69.0,Female,North,63537.0,0,39,45.81,Electronics,True,No
+48.0,Female,West,53216.0,10,88,52.51,Books,False,No
+27.0,Male,South,61014.0,6,26,82.72,Electronics,False,Yes
+36.0,Female,Central,40260.0,16,17,80.69,Home Goods,False,Yes
+49.0,Male,East,51246.0,19,71,13.06,Sports,False,Yes
+18.0,Male,West,42993.0,17,13,50.45,Home Goods,False,Yes
+22.0,Female,Central,38993.0,11,69,25.9,Electronics,False,No
+62.0,Male,North,50540.0,8,26,23.03,Clothing,False,No
+21.0,Male,North,55212.0,4,49,100.14,Sports,True,No
+33.0,Female,North,67452.0,9,67,9.82,Home Goods,False,No
+,Male,North,53977.0,3,7,53.21,Books,False,No
+33.0,Female,East,59628.0,4,58,24.34,Clothing,False,Yes
+19.0,Male,West,,9,49,106.12,Home Goods,False,No
+66.0,Female,South,90313.0,10,53,69.06,Books,False,No
+45.0,Female,East,22849.0,9,65,31.61,Electronics,False,No
+49.0,Female,East,39680.0,7,62,62.78,Books,False,Yes
+44.0,Female,South,72110.0,1,17,89.12,Home Goods,True,No
+37.0,Male,South,44719.0,7,43,115.18,Home Goods,False,No
+,Female,North,63287.0,15,25,30.35,Electronics,True,No
+,Male,East,53450.0,4,3,106.91,Books,True,Yes
+67.0,Female,Central,81578.0,2,79,112.44,Books,False,No
+52.0,Male,South,33304.0,11,29,110.39,Electronics,False,No
+50.0,Female,South,68327.0,12,32,,Books,False,No
+50.0,Male,West,76243.0,12,26,77.43,Electronics,True,No
+68.0,Female,Central,34783.0,9,16,51.37,Clothing,False,Yes
+60.0,Female,Central,61743.0,3,25,91.53,Home Goods,False,Yes
+54.0,Female,South,35517.0,8,54,66.1,Clothing,False,Yes
+29.0,Male,North,50452.0,1,28,82.91,Sports,False,No
+20.0,Female,West,46151.0,18,73,54.27,Sports,False,Yes
+18.0,Male,Central,13958.0,0,56,89.12,Sports,False,No
+50.0,Male,South,56363.0,6,65,99.81,Electronics,False,No
+57.0,Male,Central,52150.0,16,93,21.84,Books,True,Yes
+,Male,West,72186.0,2,86,100.79,Clothing,False,No
+60.0,Female,West,59167.0,19,80,67.13,Clothing,False,No
+61.0,Female,East,84363.0,19,41,102.14,Clothing,False,No
+46.0,Male,South,51605.0,2,51,54.6,Clothing,True,No
+30.0,Male,West,48417.0,2,71,48.59,Sports,False,No
+29.0,Male,East,47234.0,16,78,110.23,Clothing,False,Yes
+48.0,Male,East,43406.0,6,29,33.88,Books,False,No
+63.0,Other,Central,16883.0,13,83,102.08,Sports,True,Yes
+19.0,Male,Central,,16,19,60.66,Clothing,False,No
+68.0,Male,East,18982.0,17,66,64.12,Electronics,False,Yes
+67.0,Male,Central,56780.0,12,41,40.47,Home Goods,False,No
+52.0,Female,West,31399.0,19,45,,Home Goods,True,No
+40.0,Other,North,36585.0,19,15,42.4,Home Goods,False,No
+34.0,Female,West,39958.0,17,3,9.52,Sports,False,Yes
+43.0,Female,East,,3,11,36.28,Clothing,True,No
+25.0,Female,East,50103.0,0,53,5.73,Sports,True,No
+46.0,Male,West,66267.0,17,46,117.51,Books,False,No
+43.0,Female,Central,41337.0,0,30,116.06,Electronics,True,Yes
+,Female,Central,57202.0,12,57,50.44,Electronics,True,No
+43.0,Female,East,90963.0,19,18,88.76,Home Goods,False,No
+51.0,Female,South,55660.0,19,51,44.77,Home Goods,False,Yes
+68.0,Female,Central,47292.0,9,48,82.18,Home Goods,True,No
+58.0,Female,West,38312.0,10,66,97.62,Clothing,False,No
+24.0,Other,Central,47085.0,8,96,,Books,True,No
+21.0,Female,West,36706.0,8,8,51.02,Books,True,Yes
+67.0,Female,East,54029.0,4,22,95.08,Books,True,No
+62.0,Female,Central,51553.0,0,6,35.58,Books,False,No
+28.0,Male,West,17566.0,16,76,118.89,Home Goods,True,No
+46.0,Female,East,49721.0,1,57,7.96,Electronics,True,No
+53.0,Male,South,,12,36,74.41,Home Goods,False,No
+42.0,Female,West,44013.0,8,79,80.84,Books,False,No
+38.0,Other,South,40206.0,3,92,84.13,Home Goods,True,Yes
+53.0,Female,South,29334.0,4,57,18.84,Books,False,No
+27.0,Male,North,22130.0,10,49,112.93,Sports,True,No
+54.0,Male,Central,62470.0,18,45,25.84,Electronics,False,Yes
+26.0,Male,West,47277.0,2,82,76.62,Sports,False,Yes
+41.0,Female,South,,11,66,30.61,Clothing,False,No
+52.0,Male,North,72969.0,18,77,40.33,Home Goods,False,No
+66.0,Male,East,63818.0,18,45,67.84,Clothing,False,Yes
+52.0,Male,West,41864.0,12,79,52.98,Home Goods,True,No
+65.0,Female,South,52173.0,6,20,23.43,Sports,False,Yes
+53.0,Female,Central,40778.0,14,64,24.66,Books,True,No
+35.0,Male,North,39375.0,6,93,53.09,Books,False,No
+66.0,Male,South,55142.0,7,93,,Home Goods,False,No
+,Female,Central,37515.0,4,67,,Books,False,Yes
+49.0,Female,South,,13,83,14.67,Sports,False,No
+41.0,Female,West,36677.0,3,3,50.21,Books,False,Yes
+40.0,Male,West,45396.0,9,54,16.53,Sports,False,No
+49.0,Female,West,72820.0,19,78,6.91,Clothing,True,No
+54.0,Female,North,42635.0,14,64,81.1,Sports,False,No
+29.0,Female,West,57678.0,17,40,74.28,Electronics,False,Yes
+66.0,Female,Central,47475.0,19,59,23.75,Electronics,False,No
+30.0,Male,South,68396.0,12,55,31.89,Electronics,False,No
+40.0,Male,East,67356.0,7,62,7.73,Home Goods,True,Yes
+,Female,Central,67642.0,8,4,101.02,Home Goods,False,No
+52.0,Female,Central,23990.0,15,60,117.09,Home Goods,False,No
+58.0,Female,West,53100.0,18,75,20.58,Sports,True,No
+47.0,Female,North,61384.0,15,95,31.62,Home Goods,False,No
+34.0,Female,South,55723.0,6,96,104.87,Clothing,False,No
+66.0,Female,North,59548.0,13,91,111.54,Electronics,False,Yes
+37.0,Male,South,,13,30,53.26,Sports,False,No
+65.0,Female,South,38828.0,3,2,10.82,Electronics,True,No
+42.0,Male,North,24543.0,14,62,9.53,Home Goods,False,Yes
+39.0,Male,Central,40316.0,2,49,71.0,Sports,False,No
+30.0,Other,South,90171.0,4,9,50.18,Books,False,No
+36.0,Male,North,42715.0,0,92,8.3,Clothing,False,No
+66.0,Male,South,20609.0,2,31,72.07,Home Goods,True,Yes
+53.0,Male,East,60989.0,14,98,6.3,Home Goods,True,Yes
+29.0,Female,Central,62831.0,7,61,95.55,Clothing,False,No
+58.0,Male,West,69309.0,3,79,40.24,Clothing,False,Yes
+36.0,Male,South,57064.0,1,48,9.63,Books,False,No
+29.0,Male,East,62684.0,9,25,72.66,Home Goods,True,Yes
+26.0,Male,West,77603.0,3,36,,Home Goods,False,Yes
+24.0,Male,West,38817.0,2,8,116.99,Electronics,False,No
+45.0,Male,South,35842.0,1,73,67.58,Sports,False,Yes
+31.0,Female,North,33581.0,16,58,36.65,Sports,True,No
+,Male,South,46013.0,19,45,86.59,Electronics,False,No
+69.0,Male,East,71501.0,12,62,36.22,Sports,False,Yes
+36.0,Male,West,57921.0,4,39,108.99,Clothing,False,Yes
+,Male,South,57330.0,8,96,48.09,Sports,False,No
